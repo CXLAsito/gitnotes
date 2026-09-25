@@ -4,5 +4,8 @@ Apuntes de git:
 ## Consola
 Recomiendo usar 'zsh'
 
-##Libro
+## Libro
 Git note for proffesionals
+
+## Ramas
+Added 'develop' branch
